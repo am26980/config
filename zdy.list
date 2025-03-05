@@ -4,9 +4,11 @@ DOMAIN-SUFFIX,javdb.com
 DOMAIN-SUFFIX,demo.unlock-music.dev
 DOMAIN-SUFFIX,hdhive.online
 DOMAIN-SUFFIX,jdbstatic.com
+DOMAIN-SUFFIX,api.lrc.cx
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,javdb
 DOMAIN-KEYWORD,demo.unlock-music
 DOMAIN-KEYWORD,hdhive.online
 DOMAIN-KEYWORD,jdbstatic.com
+DOMAIN-KEYWORD,api.lrc.cx
