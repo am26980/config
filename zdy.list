@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,hdhive.online
 DOMAIN-SUFFIX,jdbstatic.com
 DOMAIN-SUFFIX,api.lrc.cx
 DOMAIN-SUFFIX,img.mukaku.com
+DOMAIN-SUFFIX,dmm.co.jp
 
 
 # 域名关键字匹配
@@ -15,4 +16,5 @@ DOMAIN-KEYWORD,hdhive.online
 DOMAIN-KEYWORD,jdbstatic.com
 DOMAIN-KEYWORD,api.lrc.cx
 DOMAIN-KEYWORD,img.mukaku.com
+DOMAIN-KEYWORD,dmm.co.jp
 
