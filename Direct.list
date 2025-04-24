@@ -29,7 +29,10 @@ IP-CIDR,114.114.115.115/32,no-resolve
 
 # 自定义
 DOMAIN-SUFFIX,chencgeng.eu.org
-
+DOMAIN-SUFFIX,derper-ali.frankli.site
+DOMAIN-SUFFIX,derp1.zhtto.top
+DOMAIN-SUFFIX,derper.wintodoor.com
+DOMAIN-SUFFIX,derp-bj1.yuez.me
 
 # 360
 DOMAIN-SUFFIX,360.com
